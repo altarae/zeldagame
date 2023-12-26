@@ -7,3 +7,4 @@
 
 - https://thorbjorn.itch.io/tiled
 - https://opengameart.org/content/antifareas-rpg-sprite-set-1-enlarged-w-transparent-background-fixed
+- https://itch.io/game-assets/free/tag-2d/tag-sprites
