@@ -15809,11 +15809,11 @@ GameObject:
   m_Component:
   - component: {fileID: 782944245}
   - component: {fileID: 782944244}
-  - component: {fileID: 782944243}
-  - component: {fileID: 782944242}
-  - component: {fileID: 782944241}
   - component: {fileID: 782944240}
+  - component: {fileID: 782944242}
+  - component: {fileID: 782944243}
   - component: {fileID: 782944246}
+  - component: {fileID: 782944241}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
