@@ -222,6 +222,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.2
+  damage: 1
 --- !u!1 &260911657
 GameObject:
   m_ObjectHideFlags: 0
@@ -327,7 +328,7 @@ Transform:
   m_GameObject: {fileID: 260911657}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.5, y: 1, z: 0}
+  m_LocalPosition: {x: 1.56, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -418,6 +419,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
+  maxHealth: {fileID: 11400000, guid: 5b3088831e3617b4790a37413cdd05af, type: 2}
   health: 2
   enemyName: Jeremy
   baseAttack: 1
@@ -486,6 +488,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.2
+  damage: 0
 --- !u!1 &532242480
 GameObject:
   m_ObjectHideFlags: 0
@@ -573,7 +576,7 @@ Transform:
   m_GameObject: {fileID: 532242480}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.98, y: 0.7, z: -10}
+  m_LocalPosition: {x: -6.58, y: 0.7, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15989,7 +15992,7 @@ Transform:
   m_GameObject: {fileID: 782944239}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13.42, y: 0.55, z: 0}
+  m_LocalPosition: {x: -5.58, y: 0.55, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -16478,6 +16481,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.2
+  damage: 1
 --- !u!1 &1583704365
 GameObject:
   m_ObjectHideFlags: 0
@@ -16579,6 +16583,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.2
+  damage: 1
 --- !u!1 &1609127286
 GameObject:
   m_ObjectHideFlags: 0
@@ -25218,6 +25223,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.2
+  damage: 1
 --- !u!1 &2110308138
 GameObject:
   m_ObjectHideFlags: 0
