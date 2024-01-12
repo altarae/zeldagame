@@ -1793,3 +1793,138 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1514.045837 seconds.
+  path: Assets/Prefabs/Room Transfer.prefab
+  artifactKey: Guid(cdd7b2fa3413a404bb4fa04bce32d8b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Room Transfer.prefab using Guid(cdd7b2fa3413a404bb4fa04bce32d8b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9620e74c3f246d2d097af25f812d818b') in 0.023381 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 2.874477 seconds.
+  path: Assets/Art/gfx/cave.png
+  artifactKey: Guid(3e8ce911f72e8294d804ad190fe001e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/gfx/cave.png using Guid(3e8ce911f72e8294d804ad190fe001e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ddf7a207eef73b018a205791280819b') in 0.118968 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1687
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Art/gfx/objects.png
+  artifactKey: Guid(4cce7cd512b5e384c96ef71defa9facc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/gfx/objects.png using Guid(4cce7cd512b5e384c96ef71defa9facc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b327991e1f3c853057757e379fb6c64e') in 0.259891 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1687
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Art/gfx/log.png
+  artifactKey: Guid(d1f3ea135ac226944a5e5a064e914cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/gfx/log.png using Guid(d1f3ea135ac226944a5e5a064e914cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a70394a7c30f08370e42d21980c6d80a') in 0.075674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1687
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Art/gfx/sprite_atlas.spriteatlas
+  artifactKey: Guid(6abc16fb5497c0144a53f0f7325fee9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/gfx/sprite_atlas.spriteatlas using Guid(6abc16fb5497c0144a53f0f7325fee9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a0de68014810d9eaba6d7e8fd9d62d0') in 0.004142 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Art/gfx/Inner.png
+  artifactKey: Guid(c9ecd009b2e31484dad7df9c2e323ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/gfx/Inner.png using Guid(c9ecd009b2e31484dad7df9c2e323ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '862923432835987c3a9752b85c8350dc') in 0.052546 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1687
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Art/gfx/modified gfx melee sprites.png
+  artifactKey: Guid(2b217b3b7259a1644a2950b5ffd1f6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/gfx/modified gfx melee sprites.png using Guid(2b217b3b7259a1644a2950b5ffd1f6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc71cff9ed669e0753cfdb987787b0a') in 0.072895 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1687
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Art/gfx/NPC_test.png
+  artifactKey: Guid(37d7593e3e6d72944bbdc40853ac3faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/gfx/NPC_test.png using Guid(37d7593e3e6d72944bbdc40853ac3faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5827773640fb70fc7bccce3dbdff679c') in 0.046138 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1687
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.364 seconds
+Refreshing native plugins compatible for Editor in 2.96 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.711 seconds
+Domain Reload Profiling: 1073ms
+	BeginReloadAssembly (119ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (190ms)
+		LoadAssemblies (223ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (26ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (9ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (712ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (312ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (55ms)
+			ProcessInitializeOnLoadAttributes (221ms)
+			ProcessInitializeOnLoadMethodAttributes (25ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 4.12 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4055 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 38 unused Assets / (35.5 KB). Loaded Objects now: 4738.
+Memory consumption went from 199.9 MB to 199.8 MB.
+Total: 2.610000 ms (FindLiveObjects: 0.245900 ms CreateObjectMapping: 0.107800 ms MarkObjects: 2.166400 ms  DeleteObjects: 0.088500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
